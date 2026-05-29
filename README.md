@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Mahmud</h1>
 
 <h3 align="center">
@@ -102,4 +101,3 @@ Backend & Frontend Developer from Uzbekistan
 <p align="center">
 ⭐️ From Mahmud
 </p>
-```
